@@ -2,7 +2,7 @@
 
 A static library website built from a design brief — the first project of TripleTen's Software Engineering program.
 
-🔗 **Live Demo:** *(not yet deployed — consider enabling GitHub Pages for this repo)* &nbsp;|&nbsp; 🎥 **Demo Video:** [link](#) *(optional)*
+🔗 **Live Demo:** [cmarsee-blip.github.io/sprint-1-project](https://cmarsee-blip.github.io/sprint-1-project/) &nbsp;|&nbsp; 🎥 **Demo Video:** [link](#) *(optional)*
 
 ---
 
@@ -35,9 +35,9 @@ git clone https://github.com/cmarsee-blip/sprint-1-project.git
 
 ## ✅ Results
 
-The finished page matches the provided design brief and reinforced core HTML/CSS fundamentals: semantic structure, layout control, and element positioning/stacking — skills carried forward into every later project.
+The finished page matches the provided design brief and reinforced core HTML/CSS fundamentals: semantic structure, layout control, and element positioning/stacking — skills carried forward into every later project. It's now deployed live via GitHub Pages.
 
 ## 🚀 Future Improvements
 
-- Fix the lack of a live deployment using GitHub Pages to achieve a shareable public demo link.
+- Fix [add a specific limitation you noticed] using [your planned approach] to achieve [the outcome].
 - Fix [add a specific limitation you noticed] using [your planned approach] to achieve [the outcome].
