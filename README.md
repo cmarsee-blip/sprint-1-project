@@ -23,7 +23,7 @@ I built the Triple Peaks Library page by breaking the design brief down into sem
 
 ## 🖼️ Screenshots
 
-![Triple Peaks Library screenshot](path/to/screenshot.png)
+![Triple Peaks Library screenshot](Library.png)
 
 ## ⚙️ Running It Locally
 
