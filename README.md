@@ -39,5 +39,5 @@ The finished page matches the provided design brief and reinforced core HTML/CSS
 
 ## 🚀 Future Improvements
 
-- Fix [add a specific limitation you noticed] using [your planned approach] to achieve [the outcome].
-- Fix [add a specific limitation you noticed] using [your planned approach] to achieve [the outcome].
+- Fix minor issues with how it is viewed on mobile & tablet.
+
