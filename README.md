@@ -2,7 +2,7 @@
 
 A static library website built from a design brief — the first project of TripleTen's Software Engineering program.
 
-🔗 **Live Demo:** [cmarsee-blip.github.io/sprint-1-project](https://cmarsee-blip.github.io/sprint-1-project/) &nbsp;|&nbsp; 🎥 
+🔗 **Live Demo:** [cmarsee-blip.github.io/sprint-1-project](https://cmarsee-blip.github.io/sprint-1-project/)
 
 ---
 
